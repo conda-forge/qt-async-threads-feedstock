@@ -20,12 +20,11 @@ requirements:
     - python >=3.10
     - setuptools
     - setuptools-scm
-    - toml
   run:
     - attrs
     - boltons
-    - pyqt >=5.12
     - python >=3.10
+    - qtpy
 
 test:
   imports:

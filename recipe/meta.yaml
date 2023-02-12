@@ -27,14 +27,13 @@ requirements:
     - qtpy
 
 test:
-  requires:
-    - PySide6
   imports:
     - qt_async_threads
   commands:
     - pip check
   requires:
     - pip
+    - PySide6
 
 about:
   home: https://qt-async-threads.readthedocs.io/

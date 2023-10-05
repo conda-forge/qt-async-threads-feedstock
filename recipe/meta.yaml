@@ -33,7 +33,7 @@ test:
     - pip check
   requires:
     - pip
-    - pyqt6
+    - pyqt
 
 about:
   home: https://qt-async-threads.readthedocs.io/

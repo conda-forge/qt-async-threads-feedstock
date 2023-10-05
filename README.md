@@ -1,11 +1,11 @@
-About qt-async-threads
-======================
+About qt-async-threads-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/qt-async-threads-feedstock/blob/main/LICENSE.txt)
 
 Home: https://qt-async-threads.readthedocs.io/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/qt-async-threads-feedstock/blob/main/LICENSE.txt)
 
 Summary: Use convenient async/await syntax to spawn threads in Qt applications
 

@@ -1,5 +1,5 @@
 {% set name = "qt-async-threads" %}
-{% set version = "0.4.0" %}
+{% set version = "0.5.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/qt-async-threads-{{ version }}.tar.gz
-  sha256: 6ba5561c9bc604fb3a30f1c7492a4804e8beeb5d1a8d37495677f8f0394eaf0a
+  sha256: 294857eca989233a976afb95bbc708224ba5f300b2008f32ebd519755d29dac1
 
 build:
   noarch: python
